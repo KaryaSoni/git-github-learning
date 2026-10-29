@@ -1,2 +1,4 @@
 imp-don't-track.txt
 secret
+.env*
+!.env.example
